@@ -92,9 +92,6 @@ NEXT_PUBLIC_AWS_COGNITO_USER_POOL_ID=your_user_pool_id
 NEXT_PUBLIC_AWS_COGNITO_USER_POOL_CLIENT_ID=your_client_id
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
