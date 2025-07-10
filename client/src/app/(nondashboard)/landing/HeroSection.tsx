@@ -51,7 +51,7 @@ const HeroSection = () => {
     <div className="relative h-screen">
       <Image
         src="/landing-splash.jpg"
-        alt="Rentiful Rental Platform Hero Section"
+        alt="MovingNest Rental Platform Hero Section"
         fill
         className="object-cover object-center"
         priority
@@ -65,11 +65,10 @@ const HeroSection = () => {
       >
         <div className="max-w-4xl mx-auto px-16 sm:px-12">
           <h1 className="text-5xl font-bold text-white mb-4">
-            Start your journey to finding the perfect place to call home
+          Find the place where comfort meets belonging
           </h1>
           <p className="text-xl text-white mb-8">
-            Explore our wide range of rental properties tailored to fit your
-            lifestyle and needs!
+          Browse rental options designed with your comfort and needs in mind.
           </p>
 
           <div className="flex justify-center">
